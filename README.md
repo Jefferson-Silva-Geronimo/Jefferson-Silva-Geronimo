@@ -1,16 +1,19 @@
-### Hi there 👋
+### Olá eu sou Jefferson Silva Geronimo
 
-<!--
-**Jefferson-Silva-Geronimo/Jefferson-Silva-Geronimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Em busca da primeira oportunidade para atuar como desenvolvedor... 
+- 🐼 Atualmente estou me aprofundando em JavaScript
+# Tecnologias:
+<div id="container" style="display: flex;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="width: 40px; height:30px; align-items: center;"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"style="width: 40px; height:30px; align-items: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="width: 40px; height:30px; align-items: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="width: 40px; height:30px; align-items: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="width: 40px; height:30px; align-items: center;">
+</div>
 
-Here are some ideas to get you started:
+***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="container2" style="display: flex;">
+  <a href = "mailto:jefferson.geronimo2703@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jefferson-silva-geronimo-912229265" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
