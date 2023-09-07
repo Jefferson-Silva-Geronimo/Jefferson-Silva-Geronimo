@@ -1,7 +1,7 @@
 ### Olá eu sou Jefferson Silva Geronimo
 
 - 💻 Em busca da primeira oportunidade para atuar como desenvolvedor... 
-- 🐼 Atualmente estou me aprofundando em JavaScript
+- 🐼 Atualmente estou me aprofundando em Java.
 # Tecnologias:
 <div id="container" style="display: flex;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="width: 40px; height:30px; align-items: center;"> 
