@@ -11,8 +11,10 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jefferson-Silva-Geronimo&show_icons=true&theme=great-gatsby)](https://github.com/Jefferson-Silva-Geronimo/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jefferson-Silva-Geronimo&theme=great-gatsby&layout=compact)
 
+
 ##
-<div style="text-align: center;">
+
+<div align=center>
   <h1>Tecnologias</h1>
   <div style="display: flex; justify-content: center; gap: 10px; align-items: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="width: 40px; height: 30px;">
@@ -29,3 +31,6 @@
   <a href = "mailto:jefferson.geronimo2703@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jefferson-silva-geronimo-912229265" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+<img src="https://raw.githubusercontent.com/Jefferson-Silva-Geronimo/Jefferson-Silva-Geronimo
+/output/snake.svg" alt="snake animation" />
