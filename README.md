@@ -32,5 +32,4 @@
   <a href="https://www.linkedin.com/in/jefferson-silva-geronimo-912229265" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-<img src="https://raw.githubusercontent.com/Jefferson-Silva-Geronimo/Jefferson-Silva-Geronimo
-/output/snake.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/Jefferson-Silva-Geronimo/Jefferson-Silva-Geronimo/output/snake.svg" alt="Snake animation" />
